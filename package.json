@@ -1,0 +1,22 @@
+{
+  "name": "custome-tian-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locusy/custome-tian-loader.git"
+  },
+  "author": "tianzhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locusy/custome-tian-loader/issues"
+  },
+  "homepage": "https://github.com/locusy/custome-tian-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
